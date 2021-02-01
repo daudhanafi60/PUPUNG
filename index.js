@@ -705,7 +705,7 @@ client.on('group-participants-update', async (anu) => {
 					break
                     
             case 'admin':
-            case 'owner':+62 812-1679-5577
+            case 'owner':
             case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
        client.sendMessage(from, 'Tuh nomer owner ku >_<, jangan spam atau ku block kamu',MessageType.text, { quoted: mek} )
